@@ -60,7 +60,7 @@ The purpose of this framework is to provide a shared reference point for governm
 
 ### Scope
 
-This framework applies to across the full : from initial planning and design through development, testing, deployment, and ongoing monitoring. It is intended for use across UK Government departments, agencies, and other public sector bodies developing or procuring AI systems.The scope covers:
+This framework applies to across the full AI system lifecycle: from initial planning and design through development, testing, deployment, and ongoing monitoring. It is intended for use across UK Government departments, agencies, and other public sector bodies developing or procuring AI systems.The scope covers:
 
 - **System Testing** - infrastructure, data flows, integrations, UI, components.
 
